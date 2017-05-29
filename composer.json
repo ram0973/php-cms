@@ -1,0 +1,17 @@
+{
+    "name": "ra/phpcms",
+    "authors": [
+        {
+            "name": "ram0973",
+            "email": "ram0973@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Engine\\": "engine",
+            "Engine\\DI\\": "engine/DI "
+        }
+
+    }
+}
